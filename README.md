@@ -1,6 +1,6 @@
 # Speedtest 
 
-![./pics/librespeed.png](Speedtest "Speed Test")
+![Speedtest](./pics/librespeed.png "Speed Test")
 
 # Resources
 
